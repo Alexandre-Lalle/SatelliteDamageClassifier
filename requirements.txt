@@ -1,0 +1,7 @@
+numpy
+matplotlib
+timm
+torch
+torchvision
+scikit-learn
+xgboost
