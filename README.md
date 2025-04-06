@@ -1,7 +1,5 @@
 
-# Satellite Damage Classification
-
-**Satellite Damage Classification by Transfer Learning**
+# Post-Disaster Damage Detection in Satellite Images via Transfer Learning
 
 This repository contains code and experiments for classifying damages on satellite images using transfer learning. The project was inspired by the work of [Cao and Choe, 2020] and compares two main approaches:
 - **Approach A:** Feature extraction using pre-trained models (ResNet50 and ViT) followed by classical classifiers (RandomForest and XGBoost).
